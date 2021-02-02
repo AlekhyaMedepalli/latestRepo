@@ -29,3 +29,17 @@ JDK 1.1|1997
 ## How Java Virtual Machine works?
 [JVM INTERNAL PROCESS](https://www.guru99.com/images/ccna/061516_1256_WhatisJava9.png)
 
+## APPLICATIONS OF JAVA
+![alt picture](JAVAPIC.png)
+
+# Sample Java code(sum of two numbers)
+  public class AddTwoNumbers
+    {
+
+        public static void main(String[] args) {
+        
+          int num1 = 5, num2 = 15, sum;
+            sum = num1 + num2;
+              System.out.println("Sum of these numbers: "+sum);
+        }
+    }
