@@ -43,3 +43,8 @@ JDK 1.1|1997
               System.out.println("Sum of these numbers: "+sum);
         }
     }
+Task Lists
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
